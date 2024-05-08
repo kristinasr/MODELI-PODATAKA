@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32EE9373-A350-42AC-972B-41B2EDABA082}|NetworkModelService\\Test\\NMSTestClient\\NMSTestClient.csproj|c:\\users\\my computer\\desktop\\pr\\modellabsprojekat\\modellabs\\networkmodelservice\\test\\nmstestclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EE9373-A350-42AC-972B-41B2EDABA082}|NetworkModelService\\Test\\NMSTestClient\\NMSTestClient.csproj|solutionrelative:networkmodelservice\\test\\nmstestclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\common\\modeldefines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\modeldefines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\common\\modelresourcesdesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\modelresourcesdesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\common\\enumdescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\enumdescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|c:\\users\\my computer\\desktop\\pr\\modellabsprojekat\\modellabs\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Test\\NMSTestClient\\Program.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\Test\\NMSTestClient\\Program.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Test\\NMSTestClient\\Program.cs",
+              "RelativeToolTip": "NetworkModelService\\Test\\NMSTestClient\\Program.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:45:54.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\Common\\Enums.cs",
+              "RelativeDocumentMoniker": "Common\\Enums.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\Common\\Enums.cs",
+              "RelativeToolTip": "Common\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:42:42.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelDefines.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\Common\\ModelDefines.cs",
+              "RelativeDocumentMoniker": "Common\\ModelDefines.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\Common\\ModelDefines.cs",
+              "RelativeToolTip": "Common\\ModelDefines.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwFcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:25:20.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnumDescs.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\Common\\EnumDescs.cs",
+              "RelativeDocumentMoniker": "Common\\EnumDescs.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\Common\\EnumDescs.cs",
+              "RelativeToolTip": "Common\\EnumDescs.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:01:29.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelResourcesDesc.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\Common\\ModelResourcesDesc.cs",
+              "RelativeDocumentMoniker": "Common\\ModelResourcesDesc.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\pr\\ModelLabsProjekat\\ModelLabs\\Common\\ModelResourcesDesc.cs",
+              "RelativeToolTip": "Common\\ModelResourcesDesc.cs",
+              "ViewState": "AQIAAF8DAAAAAAAAAAAuwGIDAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:23:23.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

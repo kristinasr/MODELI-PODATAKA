@@ -1,0 +1,27 @@
+D:\Vezbe\11\ModelLabs\bin\FTN.Common.dll
+D:\Vezbe\11\ModelLabs\bin\FTN.Common.pdb
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+C:\Users\WIN10\Desktop\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+C:\Users\WIN10\Desktop\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+C:\Users\WIN10\Desktop\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\WIN10\Desktop\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+C:\Users\My Computer\Desktop\pr\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+C:\Users\My Computer\Desktop\pr\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+C:\Users\My Computer\Desktop\pr\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\My Computer\Desktop\pr\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\Desktop\pr\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\My Computer\Desktop\pr\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb

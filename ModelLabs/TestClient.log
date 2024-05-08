@@ -1,0 +1,351 @@
+27.1.2024. 20:16:20 : Network Model Service Test Client is up and running...
+27.1.2024. 20:16:20 : Result directory: ../Results
+27.1.2024. 20:16:37 : Getting values method started.
+27.1.2024. 20:16:37 : Getting values method successfully finished.
+27.1.2024. 20:16:45 : Entering Model Code failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputModelCode() in C:\Users\WIN10\Desktop\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 232
+27.1.2024. 20:16:45 : GetExtentValues failed. Input string was not in a correct format.
+27.1.2024. 20:16:47 : Network Model Service Test Client stopped.
+27.1.2024. 21:00:54 : Network Model Service Test Client is up and running...
+27.1.2024. 21:00:54 : Result directory: ../Results
+27.1.2024. 21:00:59 : Getting extent values method started.
+27.1.2024. 21:01:01 : Getting extent values method successfully finished.
+27.1.2024. 21:01:01 : Getting related values method started.
+27.1.2024. 21:01:01 : Getting related values method successfully finished.
+27.1.2024. 21:01:06 : Network Model Service Test Client stopped.
+30.1.2024. 17:58:24 : Network Model Service Test Client is up and running...
+30.1.2024. 17:58:25 : Result directory: ../Results
+30.1.2024. 17:58:39 : Getting values method started.
+30.1.2024. 17:58:39 : Getting values method successfully finished.
+30.1.2024. 17:59:46 : Getting extent values method started.
+30.1.2024. 17:59:46 : Getting extent values method successfully finished.
+30.1.2024. 18:01:26 : Getting related values method started.
+30.1.2024. 18:01:42 : Getting related values method  failed for sourceGlobalId = 21474836485 and association (propertyId = OUTAGESCHEDULE, type = SWITCHINGOPERATION). Reason: Getting related values for resource with ID = 0x0000000500000005 failed. Failed to get related values for source GID = 0x0000000500000005. Entity with GID = 0x0000000500000005 does not contain prperty with Id = OUTAGESCHEDULE..
+30.1.2024. 18:02:18 : Entering entity id failed. Please use hex (0x) or decimal format.
+30.1.2024. 18:02:18 : GetRelatedValues failed. Input string was not in a correct format.
+30.1.2024. 18:03:16 : Getting related values method started.
+30.1.2024. 18:03:16 : Getting related values method successfully finished.
+30.1.2024. 18:04:06 : Getting extent values method started.
+30.1.2024. 18:04:06 : Getting extent values method successfully finished.
+30.1.2024. 18:04:06 : Getting related values method started.
+30.1.2024. 18:04:07 : Getting related values method successfully finished.
+2/27/2024 6:00:19 PM : Network Model Service Test Client is up and running...
+2/27/2024 6:00:19 PM : Result directory: ../Results
+2/27/2024 6:00:51 PM : Getting values method started.
+2/27/2024 6:00:53 PM : Getting values method successfully finished.
+2/27/2024 6:03:54 PM : Getting extent values method started.
+2/27/2024 6:03:55 PM : Getting extent values method successfully finished.
+2/27/2024 6:05:21 PM : Network Model Service Test Client is up and running...
+2/27/2024 6:05:22 PM : Result directory: ../Results
+2/27/2024 6:05:44 PM : Getting extent values method started.
+2/27/2024 6:05:45 PM : Getting extent values method successfully finished.
+2/27/2024 6:06:28 PM : Getting extent values method started.
+2/27/2024 6:06:29 PM : Getting extent values method successfully finished.
+2/27/2024 6:06:41 PM : Getting extent values method started.
+2/27/2024 6:06:41 PM : Getting extent values method successfully finished.
+2/27/2024 6:06:41 PM : Getting related values method started.
+2/27/2024 6:06:41 PM : Getting related values method successfully finished.
+2/27/2024 6:09:44 PM : Entering association failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputAssociation() in C:\Users\My Computer\Desktop\pr\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 288
+2/27/2024 6:09:44 PM : GetRelatedValues failed. Input string was not in a correct format.
+2/27/2024 6:11:03 PM : Getting related values method started.
+2/27/2024 6:11:04 PM : Getting related values method successfully finished.
+2/27/2024 6:12:42 PM : Getting related values method started.
+2/27/2024 6:12:42 PM : Getting related values method successfully finished.
+2/27/2024 6:13:25 PM : Getting extent values method started.
+2/27/2024 6:13:26 PM : Getting extent values method successfully finished.
+2/27/2024 6:13:26 PM : Getting related values method started.
+2/27/2024 6:13:26 PM : Getting related values method successfully finished.
+2/27/2024 6:22:46 PM : Entering entity id failed. Please use hex (0x) or decimal format.
+2/27/2024 6:22:46 PM : GetRelatedValues failed. Input string was not in a correct format.
+2/27/2024 6:24:05 PM : Getting related values method started.
+2/27/2024 6:24:05 PM : Getting related values method  failed for sourceGlobalId = 21474836486 and association (propertyId = OUTAGESCHEDULE_SWITCHINGOPERATIONS, type = SWITCHINGOPERATION). Reason: Getting related values for resource with ID = 0x0000000500000006 failed. Failed to get related values for source GID = 0x0000000500000006. Entity with GID = 0x0000000500000006 does not contain prperty with Id = OUTAGESCHEDULE_SWITCHINGOPERATIONS..
+2/27/2024 6:25:37 PM : Getting related values method started.
+2/27/2024 6:25:37 PM : Getting related values method  failed for sourceGlobalId = 21474836486 and association (propertyId = SWITCHINGOPERATION_OUTAGESCHEDULE, type = OUTAGESCHEDULE). Reason: Getting related values for resource with ID = 0x0000000500000006 failed. Failed to get related values for source GID = 0x0000000500000006. Entity with GID = 0x0000000500000006 does not contain prperty with Id = SWITCHINGOPERATION_OUTAGESCHEDULE..
+2/27/2024 6:29:18 PM : Getting related values method started.
+2/27/2024 6:29:18 PM : Getting related values method successfully finished.
+2/27/2024 6:30:53 PM : Getting related values method started.
+2/27/2024 6:30:53 PM : Getting related values method successfully finished.
+2/27/2024 6:40:36 PM : Entering association failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputAssociation() in C:\Users\My Computer\Desktop\pr\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 269
+2/27/2024 6:40:36 PM : GetRelatedValues failed. Input string was not in a correct format.
+2/27/2024 6:41:56 PM : Getting related values method started.
+2/27/2024 6:41:56 PM : Getting related values method  failed for sourceGlobalId = 21474836486 and association (propertyId = SWITCHINGOPERATION_OUTAGESCHEDULE, type = OUTAGESCHEDULE). Reason: Getting related values for resource with ID = 0x0000000500000006 failed. Failed to get related values for source GID = 0x0000000500000006. Entity with GID = 0x0000000500000006 does not contain prperty with Id = SWITCHINGOPERATION_OUTAGESCHEDULE..
+2/27/2024 6:44:56 PM : Getting related values method started.
+2/27/2024 6:44:56 PM : Getting related values method  failed for sourceGlobalId = 17179869190 and association (propertyId = SWITCHINGOPERATION_SWITCHES, type = SWITCH). Reason: Getting related values for resource with ID = 0x0000000400000006 failed. Failed to get related values for source GID = 0x0000000400000006. Entity with GID = 0x0000000400000006 does not contain prperty with Id = SWITCHINGOPERATION_SWITCHES..
+2/27/2024 6:45:50 PM : Getting related values method started.
+2/27/2024 6:45:50 PM : Getting related values method  failed for sourceGlobalId = 17179869190 and association (propertyId = SWITCH_SWITCHINGOPERATION, type = SWITCHINGOPERATION). Reason: Getting related values for resource with ID = 0x0000000400000006 failed. Failed to get related values for source GID = 0x0000000400000006. Entity with GID = 0x0000000400000006 does not contain prperty with Id = SWITCH_SWITCHINGOPERATION..
+2/27/2024 6:48:05 PM : Network Model Service Test Client is up and running...
+2/27/2024 6:48:05 PM : Result directory: ../Results
+2/27/2024 6:50:15 PM : Getting related values method started.
+2/27/2024 6:50:16 PM : Getting related values method  failed for sourceGlobalId = 21474836487 and association (propertyId = SWITCHINGOPERATION_OUTAGESCHEDULE, type = OUTAGESCHEDULE). Reason: Getting related values for resource with ID = 0x0000000500000007 failed. Failed to get related values for source GID = 0x0000000500000007. Entity with GID = 0x0000000500000007 does not contain prperty with Id = SWITCHINGOPERATION_OUTAGESCHEDULE..
+2/27/2024 6:51:18 PM : Getting related values method started.
+2/27/2024 6:51:18 PM : Getting related values method successfully finished.
+2/27/2024 6:57:07 PM : Getting related values method started.
+2/27/2024 6:57:07 PM : Getting related values method  failed for sourceGlobalId = 17179869191 and association (propertyId = SWITCHINGOPERATION_SWITCHES, type = SWITCH). Reason: Getting related values for resource with ID = 0x0000000400000007 failed. Failed to get related values for source GID = 0x0000000400000007. Entity with GID = 0x0000000400000007 does not contain prperty with Id = SWITCHINGOPERATION_SWITCHES..
+2/27/2024 6:58:31 PM : Getting extent values method started.
+2/27/2024 6:58:31 PM : Getting extent values method successfully finished.
+2/27/2024 6:58:31 PM : Getting related values method started.
+2/27/2024 6:58:32 PM : Getting related values method successfully finished.
+2/27/2024 7:03:59 PM : Getting related values method started.
+2/27/2024 7:03:59 PM : Getting related values method successfully finished.
+2/27/2024 8:13:12 PM : Network Model Service Test Client is up and running...
+2/27/2024 8:13:12 PM : Result directory: ../Results
+2/27/2024 8:13:48 PM : Getting values method started.
+2/27/2024 8:13:49 PM : Getting values method successfully finished.
+2/27/2024 8:14:42 PM : Getting extent values method started.
+2/27/2024 8:14:42 PM : Getting extent values method successfully finished.
+2/27/2024 8:15:54 PM : Getting related values method started.
+2/27/2024 8:15:55 PM : Getting related values method successfully finished.
+2/28/2024 1:25:18 AM : Network Model Service Test Client is up and running...
+2/28/2024 1:25:18 AM : Result directory: ../Results
+2/28/2024 1:28:28 AM : Getting values method started.
+2/28/2024 1:28:29 AM : Getting values method successfully finished.
+2/28/2024 1:30:04 AM : Getting extent values method started.
+2/28/2024 1:30:05 AM : Getting extent values method successfully finished.
+2/28/2024 1:33:30 AM : Getting related values method started.
+2/28/2024 1:33:30 AM : Getting related values method successfully finished.
+3/1/2024 4:43:22 PM : Network Model Service Test Client is up and running...
+3/1/2024 4:43:22 PM : Result directory: ../Results
+3/1/2024 4:44:40 PM : Getting values method started.
+3/1/2024 4:44:41 PM : Getting values method successfully finished.
+3/4/2024 3:22:59 PM : Network Model Service Test Client is up and running...
+3/4/2024 3:22:59 PM : Result directory: ../Results
+3/4/2024 3:23:51 PM : Getting values method started.
+3/4/2024 3:23:52 PM : Getting values method successfully finished.
+3/4/2024 3:46:47 PM : Getting extent values method started.
+3/4/2024 3:46:48 PM : Getting extent values method successfully finished.
+3/4/2024 3:48:34 PM : Getting related values method started.
+3/4/2024 3:48:35 PM : Getting related values method  failed for sourceGlobalId = 21474836492 and association (propertyId = OUTAGESCHEDULE_SWITCHINGOPERATIONS, type = SWITCHINGOPERATION). Reason: Getting related values for resource with ID = 0x000000050000000c failed. Failed to get related values for source GID = 0x000000050000000c. Entity with GID = 0x000000050000000c does not contain prperty with Id = OUTAGESCHEDULE_SWITCHINGOPERATIONS..
+3/4/2024 3:50:03 PM : Getting related values method started.
+3/4/2024 3:50:03 PM : Getting related values method successfully finished.
+3/4/2024 3:52:24 PM : Getting related values method started.
+3/4/2024 3:52:24 PM : Getting related values method successfully finished.
+3/4/2024 3:59:36 PM : Getting related values method started.
+3/4/2024 3:59:36 PM : Getting related values method successfully finished.
+3/4/2024 4:00:26 PM : Getting extent values method started.
+3/4/2024 4:00:27 PM : Getting extent values method successfully finished.
+3/4/2024 4:00:27 PM : Getting related values method started.
+3/4/2024 4:00:27 PM : Getting related values method successfully finished.
+3/4/2024 4:14:30 PM : Network Model Service Test Client is up and running...
+3/4/2024 4:14:30 PM : Result directory: ../Results
+3/4/2024 4:15:03 PM : Getting values method started.
+3/4/2024 4:15:04 PM : Getting values method successfully finished.
+3/4/2024 4:16:15 PM : Getting extent values method started.
+3/4/2024 4:16:16 PM : Getting extent values method successfully finished.
+3/4/2024 4:17:39 PM : Getting related values method started.
+3/4/2024 4:17:39 PM : Getting related values method successfully finished.
+3/4/2024 4:56:20 PM : Network Model Service Test Client is up and running...
+3/4/2024 4:56:20 PM : Result directory: ../Results
+3/4/2024 4:56:31 PM : Getting extent values method started.
+3/4/2024 4:56:34 PM : Getting extent values method successfully finished.
+3/4/2024 4:56:34 PM : Getting related values method started.
+3/4/2024 4:56:34 PM : Getting related values method successfully finished.
+3/4/2024 5:01:29 PM : Network Model Service Test Client is up and running...
+3/4/2024 5:01:29 PM : Result directory: ../Results
+3/4/2024 5:01:32 PM : Getting extent values method started.
+3/4/2024 5:01:36 PM : Getting extent values method successfully finished.
+3/4/2024 5:01:36 PM : Getting related values method started.
+3/4/2024 5:01:37 PM : Getting related values method successfully finished.
+3/4/2024 5:10:10 PM : Network Model Service Test Client is up and running...
+3/4/2024 5:10:10 PM : Result directory: ../Results
+3/4/2024 5:10:33 PM : Getting values method started.
+3/4/2024 5:10:34 PM : Getting values method successfully finished.
+3/4/2024 5:10:55 PM : Getting extent values method started.
+3/4/2024 5:10:56 PM : Getting extent values method successfully finished.
+3/4/2024 5:11:08 PM : Getting extent values method started.
+3/4/2024 5:11:09 PM : Getting extent values method successfully finished.
+3/4/2024 5:11:57 PM : Getting related values method started.
+3/4/2024 5:11:57 PM : Getting related values method successfully finished.
+3/4/2024 5:12:53 PM : Getting extent values method started.
+3/4/2024 5:12:54 PM : Getting extent values method successfully finished.
+3/4/2024 5:12:54 PM : Getting related values method started.
+3/4/2024 5:12:54 PM : Getting related values method successfully finished.
+3/4/2024 5:17:32 PM : Network Model Service Test Client is up and running...
+3/4/2024 5:17:32 PM : Result directory: ../Results
+3/4/2024 5:17:44 PM : Getting extent values method started.
+3/4/2024 5:17:47 PM : Getting extent values method successfully finished.
+3/4/2024 5:17:47 PM : Getting related values method started.
+3/4/2024 5:17:47 PM : Getting related values method successfully finished.
+3/4/2024 5:22:59 PM : Network Model Service Test Client is up and running...
+3/4/2024 5:23:00 PM : Result directory: ../Results
+3/4/2024 5:23:08 PM : Getting extent values method started.
+3/4/2024 5:23:10 PM : Getting extent values method successfully finished.
+3/4/2024 5:23:10 PM : Getting related values method started.
+3/4/2024 5:23:11 PM : Getting related values method  failed for sourceGlobalId = 17179869206 and association (propertyId = SWITCHINGOPERATION_SWITCHES, type = 0). Reason: Getting related values for resource with ID = 0x0000000400000016 failed. Failed to get related values for source GID = 0x0000000400000016. Entity with GID = 0x0000000400000016 does not contain prperty with Id = SWITCHINGOPERATION_SWITCHES..
+3/4/2024 5:24:55 PM : Getting extent values method started.
+3/4/2024 5:24:56 PM : Getting extent values method successfully finished.
+3/4/2024 5:24:57 PM : Getting related values method started.
+3/4/2024 5:24:57 PM : Getting related values method  failed for sourceGlobalId = 17179869206 and association (propertyId = SWITCHINGOPERATION_SWITCHES, type = 0). Reason: Getting related values for resource with ID = 0x0000000400000016 failed. Failed to get related values for source GID = 0x0000000400000016. Entity with GID = 0x0000000400000016 does not contain prperty with Id = SWITCHINGOPERATION_SWITCHES..
+3/4/2024 5:30:37 PM : Network Model Service Test Client is up and running...
+3/4/2024 5:30:37 PM : Result directory: ../Results
+3/4/2024 5:30:39 PM : Getting extent values method started.
+3/4/2024 5:30:43 PM : Getting extent values method successfully finished.
+3/4/2024 5:30:43 PM : Getting related values method started.
+3/4/2024 5:30:44 PM : Getting related values method successfully finished.
+3/4/2024 5:38:51 PM : Network Model Service Test Client is up and running...
+3/4/2024 5:38:51 PM : Result directory: ../Results
+3/4/2024 5:38:54 PM : Getting extent values method started.
+3/4/2024 5:38:58 PM : Getting extent values method successfully finished.
+3/4/2024 5:38:58 PM : Getting related values method started.
+3/4/2024 5:38:58 PM : Getting related values method successfully finished.
+3/4/2024 5:41:59 PM : Network Model Service Test Client is up and running...
+3/4/2024 5:41:59 PM : Result directory: ../Results
+3/4/2024 5:42:02 PM : Getting extent values method started.
+3/4/2024 5:42:06 PM : Getting extent values method successfully finished.
+3/4/2024 5:42:06 PM : Getting related values method started.
+3/4/2024 5:42:06 PM : Getting related values method successfully finished.
+3/6/2024 12:53:08 AM : Network Model Service Test Client is up and running...
+3/6/2024 12:53:08 AM : Result directory: ../Results
+3/6/2024 12:53:13 AM : Getting extent values method started.
+3/6/2024 12:53:16 AM : Getting extent values method successfully finished.
+3/6/2024 12:53:16 AM : Getting related values method started.
+3/6/2024 12:53:16 AM : Getting related values method successfully finished.
+3/6/2024 1:06:29 AM : Network Model Service Test Client is up and running...
+3/6/2024 1:06:29 AM : Result directory: ../Results
+3/6/2024 1:06:34 AM : Getting extent values method started.
+3/6/2024 1:06:38 AM : Getting extent values method successfully finished.
+3/6/2024 1:06:38 AM : Getting related values method started.
+3/6/2024 1:06:38 AM : Getting related values method successfully finished.
+3/6/2024 1:10:49 AM : Network Model Service Test Client is up and running...
+3/6/2024 1:10:49 AM : Result directory: ../Results
+3/6/2024 1:10:52 AM : Getting extent values method started.
+3/6/2024 1:10:57 AM : Getting extent values method successfully finished.
+3/6/2024 1:10:57 AM : Getting related values method started.
+3/6/2024 1:10:57 AM : Getting related values method successfully finished.
+3/6/2024 1:12:25 AM : Getting extent values method started.
+3/6/2024 1:12:26 AM : Getting extent values method successfully finished.
+3/6/2024 1:12:26 AM : Getting related values method started.
+3/6/2024 1:12:26 AM : Getting related values method successfully finished.
+3/6/2024 1:29:11 AM : Network Model Service Test Client is up and running...
+3/6/2024 1:29:11 AM : Result directory: ../Results
+3/6/2024 1:29:31 AM : Getting extent values method started.
+3/6/2024 1:29:34 AM : Getting extent values method successfully finished.
+3/6/2024 1:29:34 AM : Getting related values method started.
+3/6/2024 1:29:34 AM : Getting related values method successfully finished.
+3/6/2024 1:32:27 AM : Network Model Service Test Client is up and running...
+3/6/2024 1:32:27 AM : Result directory: ../Results
+3/6/2024 1:32:30 AM : Getting extent values method started.
+3/6/2024 1:32:35 AM : Getting extent values method successfully finished.
+3/6/2024 1:32:35 AM : Getting related values method started.
+3/6/2024 1:32:35 AM : Getting related values method successfully finished.
+3/6/2024 1:36:00 AM : Network Model Service Test Client is up and running...
+3/6/2024 1:36:00 AM : Result directory: ../Results
+3/6/2024 1:36:11 AM : Getting extent values method started.
+3/6/2024 1:36:14 AM : Getting extent values method successfully finished.
+3/6/2024 1:36:14 AM : Getting related values method started.
+3/6/2024 1:36:14 AM : Getting related values method successfully finished.
+3/6/2024 1:40:15 AM : Network Model Service Test Client is up and running...
+3/6/2024 1:40:15 AM : Result directory: ../Results
+3/6/2024 1:40:58 AM : Getting extent values method started.
+3/6/2024 1:41:01 AM : Getting extent values method successfully finished.
+3/6/2024 1:41:01 AM : Getting related values method started.
+3/6/2024 1:41:01 AM : Getting related values method successfully finished.
+3/6/2024 1:54:00 AM : Network Model Service Test Client is up and running...
+3/6/2024 1:54:00 AM : Result directory: ../Results
+3/6/2024 1:54:08 AM : Getting extent values method started.
+3/6/2024 1:54:11 AM : Getting extent values method successfully finished.
+3/6/2024 1:54:11 AM : Getting related values method started.
+3/6/2024 1:54:12 AM : Getting related values method successfully finished.
+3/6/2024 1:57:21 AM : Network Model Service Test Client is up and running...
+3/6/2024 1:57:21 AM : Result directory: ../Results
+3/6/2024 1:57:46 AM : Getting extent values method started.
+3/6/2024 1:57:50 AM : Getting extent values method successfully finished.
+3/6/2024 1:57:50 AM : Getting related values method started.
+3/6/2024 1:57:51 AM : Getting related values method successfully finished.
+3/10/2024 4:24:15 PM : Network Model Service Test Client is up and running...
+3/10/2024 4:24:15 PM : Result directory: ../Results
+3/10/2024 4:24:39 PM : Getting values method started.
+3/10/2024 4:24:41 PM : Getting values method successfully finished.
+3/10/2024 4:25:35 PM : Getting extent values method started.
+3/10/2024 4:25:37 PM : Getting extent values method successfully finished.
+3/10/2024 4:28:34 PM : Getting related values method started.
+3/10/2024 4:28:34 PM : Getting related values method successfully finished.
+3/10/2024 4:31:09 PM : Getting related values method started.
+3/10/2024 4:31:10 PM : Getting related values method  failed for sourceGlobalId = 17179869221 and association (propertyId = SWITCHINGOPERATION_SWITCHES, type = SWITCH). Reason: Getting related values for resource with ID = 0x0000000400000025 failed. Failed to get related values for source GID = 0x0000000400000025. Entity with GID = 0x0000000400000025 does not contain prperty with Id = SWITCHINGOPERATION_SWITCHES..
+3/10/2024 4:33:41 PM : Getting extent values method started.
+3/10/2024 4:33:43 PM : Getting extent values method successfully finished.
+3/10/2024 4:33:43 PM : Getting related values method started.
+3/10/2024 4:33:43 PM : Getting related values method successfully finished.
+3/10/2024 4:38:01 PM : Network Model Service Test Client is up and running...
+3/10/2024 4:38:02 PM : Result directory: ../Results
+3/10/2024 4:38:19 PM : Getting extent values method started.
+3/10/2024 4:38:23 PM : Getting extent values method successfully finished.
+3/10/2024 4:38:23 PM : Getting related values method started.
+3/10/2024 4:38:23 PM : Getting related values method successfully finished.
+3/10/2024 9:25:34 PM : Network Model Service Test Client is up and running...
+3/10/2024 9:25:34 PM : Result directory: ../Results
+3/10/2024 9:25:47 PM : Getting extent values method started.
+3/10/2024 9:25:50 PM : Getting extent values method successfully finished.
+3/10/2024 9:25:50 PM : Getting related values method started.
+3/10/2024 9:25:51 PM : Getting related values method successfully finished.
+3/10/2024 9:27:25 PM : Getting extent values method started.
+3/10/2024 9:27:27 PM : Getting extent values method successfully finished.
+3/10/2024 9:27:27 PM : Getting related values method started.
+3/10/2024 9:27:27 PM : Getting related values method successfully finished.
+3/10/2024 9:40:55 PM : Network Model Service Test Client is up and running...
+3/10/2024 9:40:55 PM : Result directory: ../Results
+3/10/2024 9:41:10 PM : Getting extent values method started.
+3/10/2024 9:41:14 PM : Getting extent values method successfully finished.
+3/10/2024 9:41:14 PM : Getting related values method started.
+3/10/2024 9:41:14 PM : Getting related values method successfully finished.
+3/10/2024 9:47:11 PM : Network Model Service Test Client is up and running...
+3/10/2024 9:47:11 PM : Result directory: ../Results
+3/10/2024 9:47:30 PM : Getting extent values method started.
+3/10/2024 9:47:34 PM : Getting extent values method successfully finished.
+3/10/2024 9:47:34 PM : Getting related values method started.
+3/10/2024 9:47:34 PM : Getting related values method successfully finished.
+3/10/2024 9:50:03 PM : Network Model Service Test Client is up and running...
+3/10/2024 9:50:04 PM : Result directory: ../Results
+3/10/2024 9:50:11 PM : Getting extent values method started.
+3/10/2024 9:50:18 PM : Getting extent values method successfully finished.
+3/10/2024 9:50:18 PM : Getting related values method started.
+3/10/2024 9:50:18 PM : Getting related values method successfully finished.
+3/10/2024 9:53:31 PM : Network Model Service Test Client is up and running...
+3/10/2024 9:53:31 PM : Result directory: ../Results
+3/10/2024 9:53:57 PM : Getting extent values method started.
+3/10/2024 9:54:02 PM : Getting extent values method successfully finished.
+3/10/2024 9:54:02 PM : Getting related values method started.
+3/10/2024 9:54:03 PM : Getting related values method successfully finished.
+3/10/2024 9:56:08 PM : Network Model Service Test Client is up and running...
+3/10/2024 9:56:08 PM : Result directory: ../Results
+3/10/2024 9:56:27 PM : Getting extent values method started.
+3/10/2024 9:56:34 PM : Getting extent values method successfully finished.
+3/10/2024 9:56:34 PM : Getting related values method started.
+3/10/2024 9:56:34 PM : Getting related values method successfully finished.
+3/10/2024 9:58:55 PM : Getting related values method started.
+3/10/2024 9:58:55 PM : Getting related values method successfully finished.
+3/11/2024 12:37:51 PM : Network Model Service Test Client is up and running...
+3/11/2024 12:37:51 PM : Result directory: ../Results
+3/11/2024 12:39:52 PM : Getting values method started.
+3/11/2024 12:39:53 PM : Getting values method successfully finished.
+3/11/2024 12:40:33 PM : Getting extent values method started.
+3/11/2024 12:40:37 PM : Getting extent values method successfully finished.
+3/11/2024 12:41:29 PM : Getting related values method started.
+3/11/2024 12:41:29 PM : Getting related values method successfully finished.
+3/11/2024 12:41:39 PM : Getting extent values method started.
+3/11/2024 12:41:43 PM : Getting extent values method successfully finished.
+3/11/2024 12:41:43 PM : Getting related values method started.
+3/11/2024 12:41:44 PM : Getting related values method successfully finished.
+3/11/2024 12:41:55 PM : Network Model Service Test Client stopped.
+3/11/2024 1:42:41 PM : Network Model Service Test Client is up and running...
+3/11/2024 1:42:41 PM : Result directory: ../Results
+3/11/2024 1:43:05 PM : Getting values method started.
+3/11/2024 1:43:06 PM : Getting values method successfully finished.
+3/11/2024 1:43:43 PM : Getting extent values method started.
+3/11/2024 1:43:44 PM : Getting extent values method successfully finished.
+3/11/2024 1:45:01 PM : Getting related values method started.
+3/11/2024 1:45:02 PM : Getting related values method successfully finished.
+3/11/2024 1:45:36 PM : Getting extent values method started.
+3/11/2024 1:45:38 PM : Getting extent values method successfully finished.
+3/11/2024 1:45:38 PM : Getting related values method started.
+3/11/2024 1:45:38 PM : Getting related values method successfully finished.
